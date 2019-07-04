@@ -3,17 +3,20 @@ TheDonBot is a discord bot made for the 日本語を勉強しましょう discor
 
 ## Local Setup
 
-Ask repo owner for the Bot Token
-Set your local environment variables:
-```
-DON_BOT_KEY=<insert token here>
-```
+1. Install [Golang](https://golang.org/)
 
-Run:
-```
-go run .
-```
+2. Ask repo owner for the Bot Token
+
+3. Then, set your local environment variables:
+    ```
+    DON_BOT_KEY=<insert token here>
+    ```
+
+4. Run:
+    ```
+    go run .
+    ```
 
 ## Installation
 
-Ask repo owner for a link to ad the bot to your discord server
+Ask repo owner for a link to add the bot to your discord server
